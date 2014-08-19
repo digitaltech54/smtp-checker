@@ -2,7 +2,8 @@
   "type":"project",
   "require":{
     "atk4\/atk4":"4.3.*@dev",
-    "educoder\/pest":"1.0.0"
+    "educoder\/pest":"1.0.0",
+    "phpmailer/phpmailer": "dev-master"
   },
   "autoload":{
     "psr-0":{
